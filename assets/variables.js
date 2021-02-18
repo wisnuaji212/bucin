@@ -1,10 +1,10 @@
 export default {
-  nicknames: ["Nick", "Cewe", "Akan", "Di", "Random"],
+  nicknames: ["Nur Wahyuning Tiyas", "Tiyas", "Ayanggg", "Ayangkuuu", "Sayang"],
   greetings: {
-    evening: "Good Evening",
-    afternoon: "Good Afternoon",
-    day: "Good Day",
-    morning: "Good Morning",
-    night: "Good Night"
+    evening: "Sugeng Dalu",
+    afternoon: "Sugeng Sonten",
+    day: "Sugeng Siang",
+    morning: "Sugeng Enjang",
+    night: "Sugeng Tindak Tilem"
   }
 };
